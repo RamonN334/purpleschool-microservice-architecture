@@ -37,3 +37,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Users files
+/envs
+/mongo-data-6.0.4
