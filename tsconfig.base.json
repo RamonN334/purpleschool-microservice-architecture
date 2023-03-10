@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@purpleschool-mono/contracts": ["libs/contracts/src/index.ts"],
       "@purpleschool-mono/interfaces": ["libs/interfaces/src/index.ts"]
     }
   },
