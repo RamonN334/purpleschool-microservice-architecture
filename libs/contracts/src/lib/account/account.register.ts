@@ -1,5 +1,5 @@
 export namespace AccountRegister {
-    export const topik = 'account.register.command';
+    export const topic = 'account.register.command';
 
     export class Request {
         email: string;
